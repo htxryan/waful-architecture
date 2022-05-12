@@ -17,7 +17,7 @@ As stated, none of the ideas that make up WAFUL are novel in themselves. So let'
 ![WAFUL Architecture Call Stack](/assets/waful-architecture-call-stack.drawio.png)
 
 ## Objectives &mdash; So What?
-CFC strives to maximize a few different concerns.
+WAFUL strives to maximize a few different concerns.
 
 ### Testability
 This term is thrown around a lot, but it's absolutely crucial to the long-term success of any meaningful system. [Testability](https://en.wikipedia.org/wiki/Software_testability) basically means that you can easily isolate the parts of the system you wish to test from the parts of the system you do not wish to test (either because they are untestable, difficult to test, or testing them is low-value).
